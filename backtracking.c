@@ -1,3 +1,5 @@
+///Eight queens problem solution
+
 #include "stdio.h"
 
 short int dia_r[256];
